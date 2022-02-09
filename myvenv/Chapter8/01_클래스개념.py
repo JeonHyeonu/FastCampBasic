@@ -55,3 +55,5 @@ yasuo = Champions("야스오", 700, 88)
 ezreal.basic_attack()
 leesin.basic_attack()
 yasuo.basic_attack()
+
+print("")
